@@ -1,4 +1,4 @@
-# xin wen
+# Xin (Chloe) Wen, HBA, GIS Specialist 6478868921|xwenx21@gmail.com|linkedin.com/in/chloexw
 <h2>SUMMARY OF QUALIFICARTIONS</h2>
 <p>●	Geographic Information System (GIS) – Cartographic Specialist Postgraduate Diploma</p>
 <p>●	Specialist in Human Geography, Double Minor GIS & Cities Studies, Honours Bachelor of Arts</p>
