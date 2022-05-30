@@ -1,8 +1,8 @@
 # resume
 SUMMARY OF QUALIFICARTIONS
-●	Geographic Information System (GIS) – Cartographic Specialist Postgraduate Diploma
-●	Specialist in Human Geography, Double Minor GIS & Cities Studies, Honours Bachelor of Arts
-●	5+ years of experience working with ArcGIS.
+<p>●	Geographic Information System (GIS) – Cartographic Specialist Postgraduate Diploma</p>
+<p>●	Specialist in Human Geography, Double Minor GIS & Cities Studies, Honours Bachelor of Arts</p>
+<p>●	5+ years of experience working with ArcGIS.</p>
 ●	2+ years of experience of customer service. 
 ●	Professional in ArcGIS Pro, ArcMap, ArcGIS Survey123, ArcGIS Online, Model Builder, ArcGIS Experience Builder, ArcGIS Dashboard, Excel, AutoCAD, Adobe Illustrator, Adobe Photoshop and MAPublisher. 
 ●	Proficient in web design, familiar with HTML, CSS, and JavaScript.
