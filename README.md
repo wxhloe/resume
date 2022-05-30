@@ -1,4 +1,4 @@
-# resume
+# xin wen
 <h2>SUMMARY OF QUALIFICARTIONS</h2>
 <p>●	Geographic Information System (GIS) – Cartographic Specialist Postgraduate Diploma</p>
 <p>●	Specialist in Human Geography, Double Minor GIS & Cities Studies, Honours Bachelor of Arts</p>
