@@ -16,7 +16,7 @@
 <p>●	Exceptional communication skills, and strong collaboration skills.</p>
 
 <h2>EDUCATION</h2>
-<h4>Ontario College Graduate Certificate, Fleming College				 	     Sep 2021 – Jun 2022</h4>
+<h4>Ontario College Graduate Certificate, Fleming College</h4>				 	     <p>Sep 2021 – Jun 2022</p>
 <h4>Geographic Information Systems (GIS) - Cartographic Specialist	</h4>				
 <p>●	Expected graduation in June 2022. </p>
 <p>●	Relevant Courses: Web Design and Programming, Geovisualization, GIS Database Principles, Remote Sensing and Image Analysis, Problem Solving and Programming, Spatial Analysis, Geodesy, Surveying and CAD Mapping, Environmental Modeling. </p>
